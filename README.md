@@ -1,3 +1,5 @@
+![kobby-mendez-d0oYF8hm4GI-unsplash-v1-2](https://user-images.githubusercontent.com/84256140/119211729-68e4c680-bae6-11eb-9a5c-7e7861f586df.jpg)
+
 # Slam Mirror Bot
 This is a Telegram bot writen in Python for mirroring files on the Internet to our beloved Google Drive.
 
